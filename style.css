@@ -1,0 +1,24 @@
+*{
+   box-sizing: border-box; 
+}
+body{
+    background-color: rgb(50, 31, 31);
+}
+.logo{
+    width: 135px;
+}
+
+.nav-link{
+    font-size: 13px;
+    letter-spacing: 2px;
+  
+}
+.nav-item{
+    padding-inline: 20px;
+}
+.active{
+    color: rgb(28, 28, 75)!important;
+}
+.comment{
+background-color: rgb(25, 54, 54)!important;
+}
